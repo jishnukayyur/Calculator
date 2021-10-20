@@ -1,0 +1,54 @@
+body
+{
+    background: cyan;
+}
+h1
+{
+    color: red;
+}
+.container
+{
+    margin-top: 10%;
+    width: 21%;
+    height: 350px;
+    background: black;
+}
+.first-row
+.result{
+    width: 165px;
+    height: 50px;
+    border-radius: 10px;
+    border-color: black;
+}
+
+.rows
+{
+    margin-top: 5px;
+}
+/* .third-row
+{
+    margin-top: 5px;
+} */
+
+.btn
+{
+    
+    width: 50px;
+    height: 50px;
+    background: white;
+    border-color: white;
+    color: black;
+    font-size: larger;
+}
+.clear
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    border-color: black;
+    color: white;
+    background: red;
+    font-weight: 900;
+}
+
+
